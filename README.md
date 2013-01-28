@@ -27,3 +27,7 @@ Why it's great
 * Cross-browser support
 * Best Practices
 * Easily customisable
+
+License
+-------
+Licensed under the MIT license
